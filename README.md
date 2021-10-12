@@ -1,6 +1,4 @@
 # YMLogoAlert
-
-[![CI Status](https://img.shields.io/travis/Youngminah/YMLogoAlert.svg?style=flat)](https://travis-ci.org/Youngminah/YMLogoAlert)
 [![Version](https://img.shields.io/cocoapods/v/YMLogoAlert.svg?style=flat)](https://cocoapods.org/pods/YMLogoAlert)
 [![License](https://img.shields.io/cocoapods/l/YMLogoAlert.svg?style=flat)](https://cocoapods.org/pods/YMLogoAlert)
 [![Platform](https://img.shields.io/cocoapods/p/YMLogoAlert.svg?style=flat)](https://cocoapods.org/pods/YMLogoAlert)
