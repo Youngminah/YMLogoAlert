@@ -1,0 +1,6 @@
+framework module YMLogoAlert {
+  umbrella header "YMLogoAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}

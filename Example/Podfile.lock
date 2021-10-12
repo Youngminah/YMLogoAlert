@@ -1,0 +1,16 @@
+PODS:
+  - YMLogoAlert (0.1.0)
+
+DEPENDENCIES:
+  - YMLogoAlert (from `../`)
+
+EXTERNAL SOURCES:
+  YMLogoAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YMLogoAlert: 40aff0d016614cadb07dfd188ad72b59309c07ea
+
+PODFILE CHECKSUM: 9a9fcb71b095aa3fbcf9394b200e6f8db6836d4d
+
+COCOAPODS: 1.11.2
