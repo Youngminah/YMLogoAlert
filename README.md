@@ -1,6 +1,6 @@
 # YMLogoAlert
 [![Version](https://img.shields.io/cocoapods/v/YMLogoAlert.svg?style=flat)](https://cocoapods.org/pods/YMLogoAlert)
-[![License](https://img.shields.io/cocoapods/l/YMLogoAlert.svg?style=flat)](https://cocoapods.org/pods/YMLogoAlert
+[![License](https://img.shields.io/cocoapods/l/YMLogoAlert.svg?style=flat)](https://cocoapods.org/pods/YMLogoAlert)
 [![SwiftPM](https://img.shields.io/badge/SPM-supported-DE5C43.svg?style=flat)](https://swift.org/package-manager/)
 [![Platform](https://img.shields.io/cocoapods/p/YMLogoAlert.svg?style=flat)](https://cocoapods.org/pods/YMLogoAlert)
 
