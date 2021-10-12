@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'YMLogoAlert'
-  s.version          = '0.1.0'
+  s.version          = '0.3.0'
   s.summary          = 'A simple alert with logo image and color.'
   s.description      = <<-DESC
 
