@@ -7,13 +7,25 @@
 
 
 
-## Example
+## About YMLogoAlert
+![YMLogoAlert mov](https://user-images.githubusercontent.com/42762236/137061604-d5fca03e-5242-42c7-b671-8bbe00117eba.gif)
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+- A simple custom alert.
+- YMLogoAlert lets you pop up a simple alert with a natural animation, your app's own color, font and logo image (in logo case if you need)
 
 ## Requirements
+- iOS 13.0
+- Swift 5
+
 
 ## Installation
+
+### Swift Package Manager
+```
+https://github.com/Youngminah/YMLogoAlert.git
+```
+
+### CocoaPods
 
 YMLogoAlert is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
@@ -24,7 +36,8 @@ pod 'YMLogoAlert'
 
 ## Author
 
-Youngminah, bluebelsmudi@gmail.com
+- **Youngminah**
+- E-mail: bluebelsmudi@gmail.com
 
 ## License
 
