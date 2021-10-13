@@ -1,10 +1,10 @@
 # YMLogoAlert
 [![Version](https://img.shields.io/cocoapods/v/YMLogoAlert.svg?style=flat)](https://cocoapods.org/pods/YMLogoAlert)
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![SwiftPM](https://img.shields.io/badge/SPM-supported-DE5C43.svg?style=flat)](https://swift.org/package-manager/)
 [![License](https://img.shields.io/cocoapods/l/YMLogoAlert.svg?style=flat)](https://cocoapods.org/pods/YMLogoAlert)
 [![Platform](https://img.shields.io/cocoapods/p/YMLogoAlert.svg?style=flat)](https://cocoapods.org/pods/YMLogoAlert)
 
-\\<!--  [![SwiftPM](https://img.shields.io/badge/SPM-supported-DE5C43.svg?style=flat)](https://swift.org/package-manager/) -->
 
 
 ## Example
