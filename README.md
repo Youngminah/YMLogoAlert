@@ -11,7 +11,27 @@
 ![YMLogoAlert mov](https://user-images.githubusercontent.com/42762236/137061604-d5fca03e-5242-42c7-b671-8bbe00117eba.gif)
 
 - A simple custom alert.
-- YMLogoAlert lets you pop up a simple alert with a natural animation, your app's own color, font and logo image (in logo case if you need)
+- YMLogoAlert lets you pop up a simple alert with a natural animation, your app's own color, font and a logo image (in logo case if you need)
+
+## Example
+```swift
+//YMLogoAlert1
+YMLogoAlert(title: "Title content with no message", color: .systemTeal , buttonStyle: .confirmAndCancel, okCompletion: nil)
+    .showAlert(in: view)
+    
+//YMLogoAlert2
+YMLogoAlert(title: "This is a title content", message: "This is a message content. Put your message.", color: .systemYellow , completion: nil)
+    .showAlert(in: view)
+    
+//YMLogoAlert3
+YMLogoAlert(title: "This is a title content", message: "This is a message content. Put your message.", color: .systemRed, imageName: "ExampleImage" , completion: nil)
+    .showAlert(in: view)
+    
+//YMLogoAlert4
+YMLogoAlert(title: "This is a title content", message: "This is a message content. Put your message.", color: .systemGreen, imageName: "ExampleImage"  , buttonStyle: .confirmAndCancel, okCompletion: nil)
+    .showAlert(in: view)
+```
+
 
 ## Requirements
 - iOS 13.0
