@@ -40,11 +40,6 @@ YMLogoAlert(title: "This is a title content", message: "This is a message conten
 
 ## Installation
 
-### Swift Package Manager
-```
-https://github.com/Youngminah/YMLogoAlert.git
-```
-
 ### CocoaPods
 
 YMLogoAlert is available through [CocoaPods](https://cocoapods.org). To install
@@ -52,6 +47,16 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod 'YMLogoAlert'
+```
+
+### Carthage
+```ruby
+github Youngminah/YMLogoAlert
+```
+
+### Swift Package Manager
+```ruby
+https://github.com/Youngminah/YMLogoAlert.git
 ```
 
 ## Author
