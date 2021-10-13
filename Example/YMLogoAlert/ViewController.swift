@@ -16,12 +16,22 @@ class ViewController: UIViewController {
     }
 
     @IBAction func showAlert(_ sender: UIButton) {
-        YMLogoAlert(title: "For Test",color: .systemTeal , buttonStyle: .confirmAndCancel, okCompletion: nil)
+        YMLogoAlert(title: "Title content with no message", color: .systemTeal , buttonStyle: .confirmAndCancel, okCompletion: nil)
             .showAlert(in: view)
     }
     
     @IBAction func showAlert2(_ sender: UIButton) {
-        YMLogoAlert(title: "For Test",message: "For Test", color: .systemTeal , completion: nil)
+        YMLogoAlert(title: "This is a title content", message: "This is a message content. Put your message.", color: .systemYellow , completion: nil)
+            .showAlert(in: view)
+    }
+    
+    @IBAction func showAlert3(_ sender: UIButton) {
+        YMLogoAlert(title: "This is a title content", message: "This is a message content. Put your message.", color: .systemRed, imageName: "illustMondaysallySymbolPopup" , completion: nil)
+            .showAlert(in: view)
+    }
+    
+    @IBAction func showAlert4(_ sender: UIButton) {
+        YMLogoAlert(title: "This is a title content", message: "This is a message content. Put your message.", color: .systemGreen, imageName: "illustMondaysallySymbolPopup"  , buttonStyle: .confirmAndCancel, okCompletion: nil)
             .showAlert(in: view)
     }
     
@@ -29,6 +39,5 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
 }
 
